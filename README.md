@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-maurin
-- 👀 I’m interested in PLC, Raspberry, Arduino... 
+- 👀 I’m interested in PLC, Raspberry, Arduino... But also video game development with Unity !
 - 🌱 I’m currently learning on the job !
 - 📫 How to reach me ...
 
